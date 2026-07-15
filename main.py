@@ -5,13 +5,7 @@ import subprocess
 import importlib.util
 import time
 import glob
-import os
-import sys
-import platform
-import subprocess
-import importlib.util
-import time
-import glob
+
 # ============================================
 # DEVICE ARCHITECTURE CHECK
 # ============================================
